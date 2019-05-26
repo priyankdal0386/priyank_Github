@@ -6,7 +6,7 @@ def multiply(x,y):
     pass
 def divide(x,y):
     pass
-def square(x,y):
-    pass
+def square(x):
+    return x*x
 def multu(x,y):
     pass
